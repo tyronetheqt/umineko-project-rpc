@@ -9,3 +9,8 @@ to install:
 4) profit!
 
 this is simple stuff took me only about 20 minutes but felt like sharing anyways
+
+# things i MIGHT consider adding in the future
+
+- [ ] current episode/chapter in discord rpc
+- [ ] steam achievement support
